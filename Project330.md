@@ -19,11 +19,11 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 
-Project 330 是一个以 **AI 边缘计算** 与 **嵌入式系统集成** 为核心的个人项目集。
+Project 330 是一个以 **AI 边缘计算** 与 **嵌入式系统集成** 为核心的个人项目集（纯整着玩的）。
 
 Awards [*2025 Qualcomm-IEIoT-Challenge*](https://qc-ieiot-challenge.aidlux.com/2025) First Prize?
 
-**🎯 核心目标**: 打造一套**从模型训练到边缘端推理部署、再到硬件控制的全链路系统**，实现**双目视觉焦点感知测距仪** —— 即通过深度相机感知场景深度，结合 AI 视觉模型理解画面内容，自动驱动云台/跟焦器完成专业级焦点控制。
+**🎯 核心目标**: 打造一套**从模型训练到边缘端推理部署、再到硬件控制的全链路系统**，实现**双目视觉焦点感知测距仪**<br>—— 即通过深度相机感知场景深度，结合 AI 视觉模型理解画面内容，自动驱动云台/跟焦器完成专业级焦点控制。
 
 </div>
 
@@ -54,7 +54,7 @@ Awards [*2025 Qualcomm-IEIoT-Challenge*](https://qc-ieiot-challenge.aidlux.com/2
 
 
 ## **🔒 项目限制:**<br>
-> 本小姐给的限制
+> 本小姐给的限制，为了复现方便以及开放性和可移植性
 
 ![NoCompile(pkg available)](https://img.shields.io/badge/no%20compile%20(pkg%20available)-passing?style=for-the-badge&labelColor=555&color=success)
 ![NoPCB](https://img.shields.io/badge/no%20pcb-passing?style=for-the-badge&labelColor=555&color=success)
@@ -69,17 +69,21 @@ Awards [*2025 Qualcomm-IEIoT-Challenge*](https://qc-ieiot-challenge.aidlux.com/2
 
 ## **🚀 关于提前(即时)发布仓库:**<br>
 由于本项目是叶姐姐**一个人独立**开发的，而且是"**真·全栈开发**"(软/硬件、文档、宣传片、发布会、视频教程等)工作，因此所需要的时间会比预期**长很多**，而且小女子的要求是要**完成全部**工作才发布内容。<br>
+> 注：为了赶时间，部分影片的拍摄请了拍摄团队
 
-再者是因为小女子为了能拿到**高通 QCS6490 的开发板**做适配，而参加了 [*2025高通边缘智能创新应用大赛*](https://qc-ieiot-challenge.aidlux.com/2025) ，并且还拿了奖，所以本小姐**有责任**公布源代码（尽管没有写一定要公布源代码）<br>
+再者是因为小女子为了能拿到**高通 QCS6490 的开发板**做适配，而参加了 [*2025高通边缘智能创新应用大赛*](https://qc-ieiot-challenge.aidlux.com/2025) ，并且还拿了奖，所以本小姐**有责任**公布源代码（尽管没有写一定要公布源代码）（不知道是不是因为我没有公布源代码而不提及我了）<br>
 
 还有再者是因为
 
 因此在今年的 [*2026高通具身智能与机器人大赛*](https://qc-ieiot-challenge.aidlux.com/2026/) 的参赛项目书交截止日期 (2026.07.20)，提前发布部分与**高通**强相关的仓库。
 
-本次提前发布的项目是:<br>
+
+本次提前发布的项目:<br>
 - **Edge_ModelDeploy**
 - **Edge_Inferencer**
 - **yolo26_ModelDeploy** (作为`Edge_ModelDeploy`和`Edge_Inferencer`的例子)
+
+已经发布的项目:<br>
 - **esp32-wifi-can**
 - **rktop**
 
@@ -355,6 +359,4 @@ NanoTrackV3 轻量级目标跟踪模型部署。采用双分支 Siamese 网络�
 
 **简介**: Rockchip NPU 性能实时监视工具。一个轻量级的 bash 脚本，实时显示 NPU 利用率、频率、温度等关键指标。<br>
 作为 Focus-Finder 的性能调优辅助工具被引用。
-
-```
 
