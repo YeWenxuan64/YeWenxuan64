@@ -1,7 +1,14 @@
 # YeWenxuan64
 
+I am YeWenxuan(or chs. 叶文轩)
+
+A "full stack engineer" in electrical engineering, electronic music(and vocal), animation, cinematic photography and video production.
+
+You could find me on [Bilibili](https://space.bilibili.com/332842679), [Telegram](https://t.me/YeWenxuan)(experimental) or [X(Twitter)](https://x.com/YeWenxuan256)(experimental)
+
 About [Project 330](./Project330.md) <-here.
 
+<!--
 
 ## 项目编号: YeWenxuan64
 
@@ -87,10 +94,6 @@ About [Project 330](./Project330.md) <-here.
 > [Telegram](https://t.me/YeWenxuan)(experimental)<br>
 > [X(Twitter)](https://x.com/YeWenxuan256)(experimental)<br>
 
-<!--
-| 平台 | 链接 / 联系方式 |
-|---|---|
-| Bilibili | [space.bilibili.com/332842679](https://space.bilibili.com/332842679) |
-| Telegram | [t.me/YeWenxuan](https://t.me/YeWenxuan) `experimental` |
-| X / Twitter | [x.com/YeWenxuan256](https://x.com/YeWenxuan256) `experimental` |
+
+
 -->
