@@ -1,8 +1,31 @@
-# YeWenxuan64
-
-I am YeWenxuan(or chs. 叶文轩)
+Hi~ I am YeWenxuan(or chs. 叶文轩)  🏳️‍⚧️
 
 A "full stack engineer" in electrical engineering, electronic music(and vocal), animation, cinematic photography and video production.
+
+<p align="center">
+  <picture align="center" height="200em">
+    <source 
+      srcset="https://github-stats-extended.vercel.app/api?username=YeWenxuan64&include_all_commits=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=YeWenxuan64&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200em" align="center" src="https://github-stats-extended.vercel.app/api?username=YeWenxuan64&include_all_commits=true&count_private=true" alt="YeWenxuan64's GitHub stats" />
+  </picture>
+  <picture align="center" height="200em">
+    <source 
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=YeWenxuan64&layout=compact&theme=dark&hide=markdown"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=YeWenxuan64&layout=compact&hide=markdown"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200em" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YeWenxuan64&layout=compact&hide=markdown" alt="YeWenxuan64's GitHub stats" />
+  </picture>
+</p>
 
 <h3 align="center">Find Me</h3>
 
