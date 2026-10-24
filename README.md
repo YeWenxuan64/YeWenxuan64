@@ -1,7 +1,23 @@
 # Hi~ I am YeWenxuan(or chs. 叶文轩)  🏳️‍⚧️
 
+## About Me
 A "full stack engineer" in electrical engineering, electronic music(and vocal), animation, cinematic photography and video production.
 
+## Working In Poecess
+[Project 330 (Focus-Finder or edge AI infer)](./Project330.md)
+
+## Find Me
+
+<div align="center">
+  <p>
+    <a href="https://space.bilibili.com/332842679"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff" alt="Bilibili"></a>
+    <a href="https://t.me/YeWenxuan64"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram"></a>
+    <a href="https://x.com/YeWenxuan64"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=fff" alt="X"></a>
+    <a href="https://github.com/YeWenxuan64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"></a>
+  </p>
+</div>
+
+---
 <p align="center">
   <picture align="center" height="180">
     <source 
@@ -28,18 +44,6 @@ A "full stack engineer" in electrical engineering, electronic music(and vocal), 
   </picture>
 </p>
 
-<h3 align="center">Find Me</h3>
-
-<div align="center">
-  <p>
-    <a href="https://space.bilibili.com/332842679"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff" alt="Bilibili"></a>
-    <a href="https://t.me/YeWenxuan64"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram"></a>
-    <a href="https://x.com/YeWenxuan64"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=fff" alt="X"></a>
-    <a href="https://github.com/YeWenxuan64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"></a>
-  </p>
-</div>
-
-About [Project 330 (Focus-Finder or edge AI infer)](./Project330.md) <-here.
 
 <!--
 
