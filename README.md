@@ -1,23 +1,76 @@
-# Hi~ I am YeWenxuan(or chs. 叶文轩)  🏳️‍⚧️
+# 你好，我是叶文轩 · Hi, I'm YeWenxuan
 
-## About Me
-A "full stack engineer" in electrical engineering, electronic music(and vocal), animation, cinematic photography and video production.
+## 🧬 About Me
+- 🏳️‍⚧️ **Trans girl**. sophomore (currently on leave) · a self-proclaimed "full stack engineer".
+- ⚡ **Tech** — electrical engineering, hardware and software, computer science. Yours truly covers the whole chain, from soldering iron to terminal.
+- 🎹 **Art** — electronic music, electronic vocal (Vocaloid), 3D animation, cinematic photography and video production.
+- 🍃 **One rule**: if I like it, I build it with my own hands.
 
-## Working In Poecess
-[Project 330 (Focus-Finder or edge AI infer)](./Project330.md)
 
-## Find Me
+## 🛠 Toolbox
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=Arduino)](https://www.arduino.cc/)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![RKNN](https://img.shields.io/badge/Rockchip-RKNN-FF6600?style=flat-square)
+![QNN](https://img.shields.io/badge/Qualcomm-QNN-325CAC?style=flat-square)
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Orbbec](https://img.shields.io/badge/Orbbec-Depth%20Camera-blueviolet?style=flat-square)
+![DJI](https://img.shields.io/badge/DJI-Ronin%20%7C%20Focus-000000?style=flat-square)
+
+![Pygame](https://img.shields.io/badge/Pygame-GUI-2E7D32?style=flat-square)
+
+
+## 🎯 Working In Poecess
+
+**A stereo-vision focus-sensing rangefinder** — perceives scene depth with a depth camera, understands the frame with AI vision models, and automatically drives the gimbal / focus motor for professional-grade focus control.
+
+```
++-------------------+            +----------------------+             +-------------------+
+| Orbbec Depth Cam  | - depth -> |     Focus-Finder     | - frames -> |  Edge_Inferencer  |
++-------------------+            |     (Pygame GUI)     | <- tracks - |   RKNN/QNN/ONNX   |
+                                 +----------+-----------+             +-------------------+
+                                            |
+                             +--------------+--------------+
+                        (A)  |                             | (B)
+                             v                             v
+                  +---------------------+       +---------------------+
+                  |   DJI focus motor   |       |  DJI Ronin gimbal   |
+                  | independent control |       |    + focus motor    |
+                  +---------------------+       +---------------------+
+
+  (A) direct USB-CAN, no WiFi - independent focus motor control.
+  (B) WiFi-CAN bridge (ESP32 AP <-> STA) - gimbal control, focus motor follows.
+  Routes (A) and (B) are alternatives - pick one per run.
+```
+
+This project won an award at the **2025 Qualcomm Edge AI Innovation Challenge**. Hardware, firmware, docs, promo film, launch event and tutorials were all done by yours truly, solo — hence the rule: nothing ships until everything is done. So no rushing me, please (whispers).
+
+>🔒 The main project **Focus-Finder**, the **DJI gimbal / focus motor controller**, and a bunch of model deployment repos are still private while I polish them. They will come out when they are ready.
+
+📚 [Project 330 — full project layout and dependency graph](./Project330.md)
+
+
+## 📮 Find Me
 
 <div align="center">
-  <p>
-    <a href="https://space.bilibili.com/332842679"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff" alt="Bilibili"></a>
-    <a href="https://t.me/YeWenxuan64"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram"></a>
-    <a href="https://x.com/YeWenxuan64"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=fff" alt="X"></a>
-    <a href="https://github.com/YeWenxuan64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"></a>
-  </p>
+  
+[![bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff)](https://space.bilibili.com/332842679)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/YeWenxuan64)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=fff)](https://x.com/YeWenxuan64)
+
 </div>
 
----
+
+## 📊 Stats
+
 <p align="center">
   <picture align="center" height="180">
     <source 
@@ -45,7 +98,8 @@ A "full stack engineer" in electrical engineering, electronic music(and vocal), 
 </p>
 
 
-<!--
+<details>
+<summary>🃏 Easter egg </summary>
 
 ## 项目编号: YeWenxuan64
 
@@ -132,5 +186,4 @@ A "full stack engineer" in electrical engineering, electronic music(and vocal), 
 > [X(Twitter)](https://x.com/YeWenxuan256)(experimental)<br>
 
 
-
--->
+</details>
