@@ -64,7 +64,7 @@ This project won an award at the **2025 Qualcomm Edge AI Innovation Challenge**.
   
 [![bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff)](https://space.bilibili.com/332842679)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/YeWenxuan64)
-[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=fff)](https://x.com/YeWenxuan64)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=fff)](https://x.com/YeWenxuan256)
 
 </div>
 
